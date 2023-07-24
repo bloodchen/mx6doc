@@ -16,7 +16,9 @@ It is worth noting that if there is one day during which no check-in occurs, the
 
 
 2. Mobile check-in:
+
 ![cell-checkyin](images/goldactiviyty-04.png)
+
 If you use Maxthon on the mobile end to sign in for 7 consecutive days, you can also get rich gold rewards. The check-in location is in the upper right corner of the mobile homepage. Click on the Aoyou icon in the middle of the control bar below the mobile terminal to enter the homepage. The specific check-in rewards are as follows:
 - Day 1: 20 
 - Day 2: 20 
@@ -30,11 +32,12 @@ If mobile and PC devices maintain continuous check-in, they can receive 700 glod
 
 
 3. New Tab Message Notification:
+
 ![message](images/goldactiviyty-02.png)
 ![message](images/goldactiviyty-03.png)
 The new features and messages of Maxthon will be recommended in the upper right corner of the new PC tab. When users read these messages, they will receive an additional 5 glod reward. Users only need to click on the message to view detailed content and receive glod.
 
 
-4. Purchase Gold Gift Pack:
+5. Purchase Gold Gift Pack:
 The gold gift package is settled in US dollars, and you can directly purchase and open it to receive gold . Each gift pack contains 3000 gold .
 Through the above four methods, users can easily receive gold rewards, thereby improving their membership level. Please note that the usage and exchange rules of gold may be adjusted according to activity changes. Users are advised to follow the official announcement at any time for the latest information.
