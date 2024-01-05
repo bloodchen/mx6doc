@@ -71,32 +71,40 @@ Thank you for choosing the Maxthon Browser Video Download function. We hope you 
 
 ### Free Trial Times Issue 🆓
 **Question**: I just registered a Maxthon Browser account, how do I access and view my free download attempts?
+
 **Answer**: After the initial login, you can view the remaining free download attempts on the video download function page or account settings.
 
 ### Subscription and Payment 💳
 **Question**: How do I purchase and activate a subscription for the video download service?
+
 **Answer**: After exhausting the free trial attempts, the system will display a prompt window. You can directly pay and subscribe through this window. You can pay a certain fee for a one-time video download or subscribe to this function for unlimited downloads.
 
 ### Download Limitation 🚀
 **Question**: What is the maximum number of videos that can be downloaded simultaneously? Can this limit be adjusted?
+
 **Answer**: Currently, there is a limit to the concurrent download of video, set at a maximum of 2 videos simultaneously. In the future, users may be allowed to customize the number of simultaneous downloads.
 
 ### Download Failure or Interruption 🚨
 **Question**: What should I do if there is an error or interruption during the video download process?
+
 **Answer**: If the video download fails, check if the network connection is stable and try to download again. If the problem persists, check the download logs and seek solutions in the Maxthon Browser help center.
 
 ### Video Quality and Formats 🎥
 **Question**: Will the quality of the downloaded video be consistent with playback on the webpage? What formats are supported for download?
+
 **Answer**: The downloaded video content will be consistent with webpage playback, including clarity and ads. Currently, the video format for download is webm, playable on all major browsers, and MP4 format support will be added in the future.
 
 ### Unsubscribe Operation 🚫
 **Question**: I have subscribed to the monthly service, how do I cancel automatic renewal before the next month starts?
+
 **Answer**: You can use the unsubscribe link in the email to cancel automatic renewal, or log in to your Maxthon account and manually cancel the subscription in the account settings under subscription management.
 
 ### Website Compatibility 🌐
 **Question**: Can this download function be used on all online video websites?
+
 **Answer**: The Maxthon video download function supports most mainstream video websites, but due to technical protection measures on certain websites, there may be cases where downloading is not possible. In such cases, please contact customer service for confirmation.
 
 ### Billing Cycle and Refund Policy 💸
 **Question**: If I decide to unsubscribe shortly after the subscription takes effect, can I get a refund?
+
 **Answer**: Maxthon's refund policy varies based on different subscription types. For details, please refer to our terms of service. In some cases, requests made within the specified time can enjoy the refund service.
