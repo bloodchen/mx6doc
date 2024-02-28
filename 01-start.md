@@ -6,7 +6,7 @@
 
 Open Maxthon official website: [https://www.maxthon.com/](https://www.maxthon.com/)
 
-![](images/01-00.png "=85%, 85%")
+![Maxthon browser 6 for WindowsOS](images/01-00.png "=85%, 85%")
 
 Click **Download Now** to download Maxthon. It will automatically detect your system and download the suitable installer package for your device. You can also click More to view other installer packages. Double-click on the installer package, then click Install Now. Maxthon will launch automatically after the installation.
 
@@ -31,7 +31,7 @@ Sync the data to multi-devices and prevent the data loss
 
 You can sign in to your Maxthon browser account to continue previous browser session.
 
-![](images/01-01.png "=85%, 85%")
+![Maxthon browser accout login page](images/01-01.png "=85%, 85%")
 
 Note: If you are an existing Maxthon 5 user and are using the new Maxthon for the first time, the history data of Maxthon 5 will be imported to the new Maxthon automatically at the first log-in.
 
@@ -39,13 +39,13 @@ Note: If you are an existing Maxthon 5 user and are using the new Maxthon for th
 
 If you are new to Maxthon, you may register a browser account using your email address or phone number.
 
-![](images/01-02.png "=85%, 85%")
+![Create a new Maxthon browser account](images/01-02.png "=85%, 85%")
 
 ## Sign in with the Guest Account 
 
 You can also sign in to the guest account. Under the guest account, the data will be saved to the local and cannot sync with other devices, and some functions are not available.
 
-![](images/01-03.png "=85%, 85%")
+![Sign in with the Guest Account in Maxthon](images/01-03.png "=85%, 85%")
 
 Note: Please be noted that the guest account data is saved locally. If you delete the local data, it will be lost forever.
 
@@ -56,7 +56,7 @@ You can import HTML files or other browsers’ data to Maxthon.
 * Click **Menu** > **Settings**, in General settings, click **Import local data and HTML**; 
 * Maxthon supports importing data from most popular browsers, such as Edge, IE, Firefox, Chrome, etc.
 
-![](images/01-04.png "=85%, 85%")
+![Import Local Data in Maxthon](images/01-04.png "=85%, 85%")
 
 ## Set Maxthon as the Default Browser 
 
@@ -64,11 +64,11 @@ Set Maxthon as the default browser, then the external link and file can be opene
 
 * Open **Menu**> **More tools**> **Set as default**
 
-![](images/01-05.png "=85%, 85%")
+![Set Maxthon as the Default Browser](images/01-05.png "=85%, 85%")
 
 * In system settings, go to **Default apps**> **Web browser**> **Maxthon**
 
-![](images/01-06.png "=85%, 85%")
+![Set Maxthon as the Default Browser in windowsOS](images/01-06.png "=85%, 85%")
 
 * You can pin the Maxthon icon to the taskbar to open it easily.
     * Open Maxthon on your device
@@ -82,7 +82,7 @@ Set Maxthon as the default browser, then the external link and file can be opene
 
 * Open **Menu**> **Settings**>**About Maxthon** to customize the update settings
 
-![](images/01-07.png "=85%, 85%")
+![Maxthon about page](images/01-07.png "=85%, 85%")
 
 * Regarding the update, Maxthon supports three options
     * Auto-update (recommended): it will auto-update to the latest version when the engineers release the update.
@@ -95,4 +95,4 @@ Set Maxthon as the default browser, then the external link and file can be opene
 * You can find Maxthon from the system menu, then right-click on it to choose the Uninstall button. 
 * You can also uninstall the browser under the system control panel.
 
-![](images/01-08.png "=85%, 85%")
+![Uninstall Maxthon](images/01-08.png "=85%, 85%")

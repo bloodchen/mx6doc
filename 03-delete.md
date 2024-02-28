@@ -31,7 +31,7 @@ Data can be deleted by clicking **Clear Browser Data**
 ## Clear Browsing Data
 
 Maxthon provides a convenient one-click data deletion function.
-![](images/03-00.png)
+![Clear Maxthon Browsing Data](images/03-00.png)
 
 1. Left-click on the customize and control button![](zh/images/03-2.png) at the top right corner to show the main menu
 2. Move the cursor to More Tools and click on Clear browsing data
@@ -50,7 +50,7 @@ If you have signed in to Maxthon Cloud account and wish to delete this account a
 * Left-click on the customize and control button ![](zh/images/03-2.png) at the top right corner to show the main menu. Click on the pull-down menu beside your account and select [**Log out**]
 * Upon confirming the closing of the browser, move the cursor and select the account for deletion and click on the ![](zh/images/03-4png) button in the pop-up menu to delete the local data stored under the account.
 
-![](images/03-01.png)
+![Delete local cloud account in Maxthon](images/03-01.png)
 
 Note: This method can be used for the deletion of local data and will not affect the cloud account data.
 
@@ -60,7 +60,7 @@ If you don’t want a record of web pages you’ve visited using Maxthon, you ca
 
 Left-click ![](zh/images/03-2.png)on the top right-hand corner Delete all history records: Click [ **Clear records of this page** ] at the top and all local history data will be deleted.
 
-![](images/03-02.png)
+![Delete Maxthon browsing history steps](images/03-02.png)
 
 Delete selected history records: Check the box next to each item that you want to remove from your history, click on [ **Delete** ], and the selected history record will be deleted.
 
@@ -72,7 +72,7 @@ You can choose to delete existing cookies, allow or block all cookies, and set p
 
 #### Clear all cookies
 
-![](images/03-03.png)
+![Clear cookies in Maxthon browser](images/03-03.png)
 
 Go to [ **Settings > Advanced > Privacy and security** ]
 
@@ -83,30 +83,30 @@ Click on Site settings, select [ **Clear all data** ] under [ **All sites** ]
 
 1. Delete cookies from a site
 
-![](images/03-04.png)
+![Delete selected cookies in maxthon](images/03-04.png)
 
 In [ **Settings > Advanced > Privacy and security > Site settings** ], select [ **All sites** ], you could search for a specific website and click on the button, select [ **Clear data** ] and Cookies data for that website will be deleted.
 
 
 2. Delete cookies within a specified time range
-![](images/03-05.png)
+![Delete cookies within a specified time range in Maxhton](images/03-05.png)
 
 In [ **Settings > Advanced > Privacy and security** ], click [ **Clear browser data** ], select [ **Cookies and other site data** ],  select the time range, and click “OK” to confirm the deletion.
 
 #### Change your cookie settings
 
 You can allow or block cookies saved by websites. Do note that if you don't allow sites to save cookies, most sites that require you to sign in may not work.
-![](images/03-06.png)
+![How to change cookie settings in Maxthon browser](images/03-06.png)
 
 In [ **Settings > Advanced > Privacy and security > Site settings** ], click [ **Cookies and site data** ] to change the cookies setting.
 
 1. Allow or block all Cookies: You can block or allow all cookies by default. You can also allow cookies from a specific site while blocking third-party cookies in ads or images on that webpage. Note that if you block third-party cookies, all cookies and site data from other sites will be blocked, even if the site is allowed on your exceptions list.
 2. Allow or block cookies for a specific site: You could add selected websites into [ **Sites that can always use cookies** ], [ **Always clear cookies when windows are closed** ], [ **Sites that can never use cookies** ]
 
-## Reset Maxthon6 settings to default
+## Reset Maxthon settings to default
 
 You can restore your browser settings in Maxthon6 at any time. You might need to do this if apps or extensions you installed changed your settings without your knowledge. Your saved bookmarks and passwords won't be cleared or changed.
 
 In [ **Settings** ], click [ **Restore settings to default settings** ] on the top right corner, and the system will reset to its default.
 
-![](images/03-07.png)
+![How to reset Maxthon settings to default](images/03-07.png)

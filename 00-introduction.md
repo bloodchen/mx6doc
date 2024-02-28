@@ -3,7 +3,7 @@
 ## New tab: Excitments within reach
 
 Maxthon will preset some common links in the new tab, hover to modify/delete and drag to grouping/changing order;
-![](images/00-00.png "=85%, 85%")
+![Maxthon Browser start up page](images/00-00.png "=85%, 85%")
 
 [**folder**]: when an item is dragged to overlap with another item, releasing it will automatically create a folder for the two items; Folder - when you drag out or delete its items to 0, the folder is automatically deleted;
 
@@ -13,19 +13,19 @@ Maxthon will preset some common links in the new tab, hover to modify/delete and
 
 ## Search everything in the address bar
 
-![](images/00-01.png "=85%, 85%")
+![Search engine on Maxthon browser adress bar](images/00-01.png "=85%, 85%")
 
 Whether it is a web address or a search keyword, the address bar is automatically matched. The address bar gives you matching suggestions according to existing bookmarks, tags, history, opened tabs, and search popularity. You can change the search engine in settings.
 
 ## Maxthon cloud service synchronizes data to different devices.
 
-![](images/00-02.png "=85%, 85%")
+![Maxthon cloud service synchronizes data to different devices](images/00-02.png "=85%, 85%")
 
 Log in to your Maxthon account to sync data among multiple devices. Click the menu button in the upper right corner, click [log in Maxthon], and then create or log in to the account. You can also log in to multiple accounts locally.
 
 ## Incognito window, browsing with no trace
 
-![](images/00-03.png "=85%, 85%")
+![Maxthon incognito mode](images/00-03.png "=85%, 85%")
 
 You can browse the Internet without leaving any information on your computer. Maxthon will also block attempts to track your activities on the Internet.
 
@@ -35,13 +35,13 @@ You can also right-click on the link and select "open in incognito window" or se
 
 ## Customized interface
 
-![](images/00-04.png "=85%, 85%")
+![Maxthon customized interface](images/00-04.png "=85%, 85%")
 
 Click the custom interface button logo in the upper right corner to customize the UI and themes.
 
 ## Using Add-ons to extend functions
 
-![](images/00-05.png "=85%, 85%")
+![Maxthon browser extensions](images/00-05.png "=85%, 85%")
 
 Click the puzzle piece button in the upper right corner to check the add-ons currently in use;
 
@@ -53,6 +53,6 @@ All add-ons that support chrome can be installed to maxthon through an install f
 
 ## Activate Vbox
 
-![](images/00-06.png "=85%, 85%")
+![Vbox block chain identity activationon Maxthon Browser](images/00-06.png "=85%, 85%")
 
 Click the 'V' logo to open the Vbox. You can get your blockchain identity here. Apply for the NBdomain name for free, and explore more fun applets in Maxthon.

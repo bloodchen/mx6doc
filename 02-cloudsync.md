@@ -5,7 +5,7 @@
 Sign in to your browser account in Maxthon to sync with multi-devices. 
 Under the guest account, you can click Menu > Log in and sync data
 
-![](images/02-00.png)
+![Maxthon Browser Account](images/02-00.png)
 
 *Note1: Maxthon 5 browser account data will automatically import to the new Maxthon at the first sign-in. After that, the data of Maxthon 5 won’t sync with the New Maxthon version (except Maxnote).
 
@@ -19,7 +19,7 @@ After signing in to your browser account, you can import account data from Maxth
 
 Sign in to multiple accounts (work or home accounts). In case you want to share your device with family members, you can register an account for everyone
 
-![](images/02-01.png)
+![Sign in to Multi-accounts in Maxthon](images/02-01.png)
 
 Sign out of the current account, you will see switch account window:
 
@@ -31,14 +31,14 @@ Sign out of the current account, you will see switch account window:
 
 You can customize the browser UI, and the settings can sync with all devices
 
-![](images/02-02.png)
+![Customise Maxthon browser UI](images/02-02.png)
 
 At the top right![pic](zh/images/00-5.png), click Customize UI to enable or disable the functions;
 You can also go to Settings > Appearance to customize.
 
 ## Change the Browser Theme & Skin
 
-![](images/02-03.png)
+![Customise Maxthon browser skin and themes](images/02-03.png)
 
 You can upload the image as the background or install the theme extension
 
@@ -48,7 +48,7 @@ You can upload the image as the background or install the theme extension
 
 ## Customize Homepage & Startup Page
 
-![](images/02-04.png)
+![Customize Maxthon Homepage & Startup Page](images/02-04.png)
 
 You can set the particular startup page for every browser account:
 - Homepage: You can select any website as the browser homepage;
@@ -61,7 +61,7 @@ You can set the particular startup page for every browser account:
 
 You can also use the guest account when using Maxthon temporarily.
 
-![](images/02-05.png)
+![Sign in with the Guest Account in Maxthon browser](images/02-05.png)
 
 The guest account is the local account. It can use most of Maxthon’s features and needn’t password.
 *Note: If you delete the local data, the browser data under the guest account will be lost.

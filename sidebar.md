@@ -7,7 +7,9 @@
 - [Tabs](04-tab.md)
 - [Browsing Webpage](05-browse.md)
 - [Downloading Files](06-download.md)
+- [Full video download service](video-dowload-help.md)
 - [Bookmarks](07-bookmark.md)
+- [Supper bookmarks](superfavor.md)
 - [Maxnote](08-mxnote.md)
 - [Quicknote](09-fastnote.md)
 - [Passkeeper](10-password.md)
@@ -15,6 +17,7 @@
 - [Extensions](12-extensions.md)
 - [Others](13-other.md)
 - [Settings](14-setting.md)
+- [Gold activities](goldactivity.md)
 - [FAQ](15-QA.md)
 
 **Developer Docs**
