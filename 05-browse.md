@@ -10,13 +10,13 @@ The address bar of the Maxthon browser not only access URLs but can also search 
 
 To help you search, maxthon will show search suggestions under the address bar. The suggestions are from your browsing history, bookmarks, and the search engine's reccommendations. Some of the suggestions can be deleted by deleting the browsing data.
 
-![](images/05-00.png "=85%, 85%")
+![Search suggestions in address bar in Maxthon](images/05-00.png "=85%, 85%")
 
 2. Customize the default search engine
 
 You can change the default search engine or add a new search engine.
 
-![](images/05-01.png "=85%, 85%")
+![Customize the default search engine in Maxthon settings](images/05-01.png "=85%, 85%")
 
 Go to **Settings**> **General**> **Search engine**, click the down arrow to change the default search engine. The new tab page and the selected text search function in right-click menu will use the default search engine.
 
@@ -24,7 +24,7 @@ Click **Manage engines** to add, edit or delete the search engines.
 
 #### Search within a webpage
 
-![](images/05-02.png "=85%, 85%")
+![Search within a webpage in Maxthon browser while browsing](images/05-02.png "=85%, 85%")
 
 You can search the specific keyboard or phrase on the webpage:
 
@@ -40,7 +40,7 @@ Tip: Copy the keyword, then press the keyboard shortcut Ctrl+F; the keyword will
 
 You can also search the words or phrases on the webpage
 
-![](images/05-03.png "=85%, 85%")
+![Search selected words or phrases in Maxthon browser](images/05-03.png "=85%, 85%")
 
 1. Highlight a word or phrase, then right-click on it to search for it with your default search engine.
 
@@ -50,19 +50,19 @@ You can also search the words or phrases on the webpage
 
 Sometimes you may not want to hear the sound from a webpage. You can **Mute** the webpage.
 
-![](images/05-04.png "=85%, 85%")
+![Mute the tab in Maxthon](images/05-04.png "=85%, 85%")
 
 1. Right-click on the tab and choose Mute site; all sites belonging to the root domain will be muted.
 
 The mute state of the site is saved. It won’t be cancelled by restarting the browser or closing the site unless you right-click on the tab to unmute it or cancel it by the global mute.
 
-2. Click the global mute button![pic](zh/images/05-6.png) on the status bar to switch the mute status.
+2. Click the global mute button![global mute button on the Maxthon status bar](zh/images/05-6.png) on the status bar to switch the mute status.
 
 The global mute setting is working on the whole browser. If you enable the global mute, all tabs will be muted, and it only can be canceled by disabling the global mute manually.
 
 ## Refresh Page
 
-![](images/05-05.png "=85%, 85%")
+![Refreshing pages in Maxthon](images/05-05.png "=85%, 85%")
 
 Maxthon supports the following refresh methods:
 
@@ -78,7 +78,7 @@ Maxthon supports the following refresh methods:
 
 ## Zoom the webpage, Go Full Screen, Split Screen
 
-![](images/05-06.png "=85%, 85%")
+![Zoom, full screen and split screen in Maxthon browser](images/05-06.png "=85%, 85%")
 
 - You can zoom in/out on the page, go full/split the screen when browsing the webpage.
   - Press the shortcut“Ctrl and +” to zoom in
@@ -93,26 +93,26 @@ Maxthon supports the following refresh methods:
 
 At the top right, click the customize UI button![pic](zh/images/00-5.png), Address bar settings > Show QR code, then the address bar will display the QR code icon![pic](zh/images/05-12.png). Click this icon to view the webpage QR code.
 
-![](images/05-07.png "=85%, 85%")
+![Share link url with QR Code in Maxthon browser address bar](images/05-07.png "=85%, 85%")
 
 ## Mouse Gesture
 
 On the settings page, Mouse Gesture > More mouse gestures to customize.
 
-![](images/05-08.png "=85%, 85%")
+![Mouse Gesture settings in Maxthon browser](images/05-08.png "=85%, 85%")
 
 ## Customize shortcuts
 
 On the settings page, open Mouse Gesture > Shortcut Management > More shortcuts to customize.
 
-![](images/05-09.png "=85%, 85%")
+![Customize shortcut settings in Maxthon browser](images/05-09.png "=85%, 85%")
 
 You can customize Boss key and Lock Maxthon here:
 
 - Boss key: When pressing the boss key shortcut, the browser will hide, the video and audio will pause automatically.
 - Lock Maxthon: This function is available after signing in to your browser account. If you press the shortcut to lock Maxthon, you must enter the browser account password to unlock it.
 
-### Maxthon6 Defult Shotcuts
+### Maxthon Defult Shotcuts
 |Command|Shortcut|
 |----|----|
 |Boss key|<span class="key">Ctlr</span> + <span class="key">·</span>|
@@ -179,7 +179,7 @@ You can customize Boss key and Lock Maxthon here:
 |History|<span class="key">Ctrl</span> + <span class="key">H</span>|
 |Maxthon Browser console|<span class="key">Shift</span> + <span class="key">Esc</span>|
 |Maxnote|<span class="key">Shift</span> + <span class="key">Alt</span> + <span class="key">N</span>|
-|Quicknote|<span class="key">Ctrl</span>+ <span class="key">G</span>|
+|Maxnote pop-up|<span class="key">Ctrl</span>+ <span class="key">G</span>|
 |Add to bookmarks|<span class="key">Ctrl</span> + <span class="key">D</span>|
 |Bookmark all tabs|<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">D</span>|
 |Bookmark other URLs in page|Drag the url into the bookmarkbar|
@@ -202,12 +202,13 @@ You can customize Boss key and Lock Maxthon here:
 |Print…|<span class="key">Ctrl</span> + <span class="key">P</span>|
 |Print with system dialog|<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">P</span>|
 |Lock Maxthon|No default value|
+|Pin the current window|<span class="key">Ctrl</span> + <span class="key">alt</span> + <span class="key">P</span>|
 |Help|<span class="key">F1</span>|
 
 
 ## Status Bar
 
-![](images/05-10.png "=85%, 85%")
+![Status Bar in Maxthon browser](images/05-10.png "=85%, 85%")
 
 At the top right, click Customize UI button![pic](zh/images/00-5.png), check Show status bar;
 
@@ -237,4 +238,4 @@ At the upper right corner, click Menu ![pic](zh/images/03-2.png) > Incognito
 
 - Right-click on URL, bookmark, Quick Access, choose Open in the incognito window
 
-![](images/05-11.png "=85%, 85%")
+![Incognito Mode in Maxthon browser](images/05-11.png "=85%, 85%")

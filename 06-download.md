@@ -6,7 +6,7 @@ To save a file or image on your computer or device, you can use the downloader. 
 
 Click on the download link or right-click on the file and choose to Save as. You can customize the download file name and the download location in the download manager window. The file will begin to download after clicking Confirm. When the download finishes, a number will be displayed on the bottom right of the downloader icon.
 
-![](images/06-00.png)
+![Download Manager in the Maxthon browser toolbar](images/06-00.png)
 
 Manage the download task in the download manager:
 
@@ -24,7 +24,7 @@ Manage the download task in the download manager:
 7. Search download records: at the top of the download manager, click the Search button ![pic](zh/images/06-7.png), you can enter the keyword to search
 8. Download manager settings: at the top, click the manage button ![pic](zh/images/06-8.png), it will open the download settings page:
 
-![](images/06-01.png)
+![Quick download in Maxthon browser settings](images/06-01.png)
 
 If **Quick download** is checked, it will download the file directly to the download location without pop up the download window to confirm the download task. The download location can be customized.
 
@@ -32,7 +32,7 @@ If **Quick download** is checked, it will download the file directly to the down
 
 #### Download image
 
-![](images/06-02.png)
+![Quick save images in Maxthon browser settings](images/06-02.png)
 
 - Right-click on the image, then choose [**Save as**]
 - Use the **Quick save image** function:

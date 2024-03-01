@@ -4,15 +4,15 @@
 
 While browsing through web pages, you could easily bookmark the website by clicking on the star icon ![](zh/images/07-1.png) on the address bar.
 
-![](images/07-00.gif "=85%, 85%")
+![Adding bookmark in Maxthon](images/07-00.gif "=85%, 85%")
 
 After the bookmark is added successfully, the bookmark icon on the address bar will be updated. By clicking on the icon![](zh/images/07-2.png) again you could edit or remove the bookmark.
 
-![](images/07-01.gif "=85%, 85%")
+![Editing bookmark in Maxthon](images/07-01.gif "=85%, 85%")
 
 ## Using the bookmark bar as a shortcut
 
-![](images/07-02.gif "=85%, 85%")
+![Using bookmark bar in Maxthon](images/07-02.gif "=85%, 85%")
 
 Click on the customize UI button![](zh/images/00-5.png) on the upper right corner of the browser and select [**Show bookmark bar**] to show/hide the bookmark bar
 
@@ -38,7 +38,7 @@ Right-click on the bookmark bar for quick access to:
 
 Other than the bookmark bar, Maxthon supports two methods to access bookmark quickly: use the bookmarks menu under the main menu to show the bookmark button. Once the bookmark button appears at the address bar, the bookmarks option in the main menu will be hidden.
 
-![](images/07-03.gif "=85%, 85%")
+![Switching between bookmark menu and bookmark button in Maxthon](images/07-03.gif "=85%, 85%")
 
 ## Using Bookmark Manager to organize bookmarks
 

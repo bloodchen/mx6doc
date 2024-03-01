@@ -6,7 +6,7 @@
 
 2. Press the “**Ctrl**” button on your keyboard and left-click on the link simultaneously in a website to open the link in a new tab. Alternatively, you could right-click on the link and select [**Open link in new tab**]
 
-![](images/04-00.png "=85%, 85%")
+![Open the link in a new tab in Maxthon](images/04-00.png "=85%, 85%")
 
  
 
@@ -22,7 +22,7 @@ You could open a few browser windows from desktop:
 
 4. Drag and move the tab out of the current browser window.
 
-![](images/04-01.png "=85%, 85%")
+![Move the tab out of the current Maxthon browser window](images/04-01.png "=85%, 85%")
 
  
 
@@ -32,9 +32,9 @@ You could open a few browser windows from desktop:
 
 1. Add to the new tab page
 
-![](images/04-02.png "=85%, 85%")
+![Add links to the Quick Access in Maxthon](images/04-02.png "=85%, 85%")
 
-![](images/04-03.png "=85%, 85%")
+![Custom the Quick Access in Maxthon](images/04-03.png "=85%, 85%")
 
 - You could right-click on the tab and select [**Add to the new tab page** ] ;
 - Or go to new tab and click the [ **Add** ]  button![](zh/images/04-5.png), select [**Custom**] at the top tab to input title, website URL, and how the thumbnail shall be created:
@@ -45,9 +45,9 @@ You could open a few browser windows from desktop:
 
 2. Managing quick access thumbnail
 
-![](images/04-04.png "=85%, 85%")
+![Quick access thumbnail buttons in Maxthon](images/04-04.png "=85%, 85%")
 
-![](images/04-05.png "=85%, 85%")
+![Quick access thumbnail context menu in Maxthon](images/04-05.png "=85%, 85%")
 
 - Move the cursor to the quick access thumbnail left click on the edit button![](zh/images/04-7.png) to edit, click the close button![](zh/images/04-8.png) to delete.
 - Right-click on the quick access thumbnail and select [ **Edit**], [**Delete**] from the menu.
@@ -60,7 +60,7 @@ You could open a few browser windows from desktop:
 
 Drag and drop the thumbnail to a different position within the page. 
 
-![](images/04-06.png "=85%, 85%")
+![Arranging Quick access thumbnails in Maxthon](images/04-06.png "=85%, 85%")
 
 
 #### Use the folder to organize thumbnails
@@ -69,13 +69,13 @@ Maxthon new quick access page allows you to organize thumbnails using folders.
 
 1. Create a new folder
 
-![](images/04-07.gif "=85%, 85%")
+![Create a folder in Maxthon Quick Access](images/04-07.gif "=85%, 85%")
 
 Click and drag one thumbnail to another. Once the background appears darker, drop it and a new folder will be created.
 
 2. Dragging thumbnail out of a folder
 
-![](images/04-08.gif "=85%, 85%")
+![Dragging thumbnail out of a folder in Maxthon Quick Access](images/04-08.gif "=85%, 85%")
 
 Drag and drop the thumbnail out the folder to the main page.
 
@@ -87,7 +87,7 @@ Drag and drop the thumbnail out the folder to the main page.
 
 You could customize the quick access page background by clicking on the cog icon ![](zh/images/04-12.png) at the bottom right corner to go into [ **Settings** ]. In settings, you could choose the background picture or click on the plus icon![](zh/images/04-13.png) to add a background picture from the computer.
 
-![](images/04-09.png "=85%, 85%")
+![Maxthon Quick access page setting](images/04-09.png "=85%, 85%")
 
 
 ## Arranging and Locking tabs
@@ -96,7 +96,7 @@ You could customize the quick access page background by clicking on the cog icon
 
 2. Right-click on the tab and select [ **Lock Tab** ] from the menu and you will see the lock icon ![](zh/images/04-15.png) appearing on the tab. The locked tab can not be closed unless it's unlocked. Right-click on the tab again and select [ **Unlock tab**], the tab will be unlocked. 
 
-![](images/04-10.png "=85%, 85%")
+![Pin the tab in Maxthon](images/04-10.png "=85%, 85%")
 
  
 
@@ -106,13 +106,13 @@ You could organize your tabs by
 
 1. Grouping the tabs
 
-![](images/04-11.gif "=85%, 85%")
+![Grouping Tabs in Maxthon](images/04-11.gif "=85%, 85%")
 
 - Select a few tabs ( press Shift button to select more tabs ), right-click and select [ **Move tab to incognito window** ], [ **Move tab to new group** ];
 - Click on the group tab to collapse the tabs and the top of the browser window will only show the group name and color selected. If you wish to expand the tabs, just click on the group tab name or color again.
 2. Edit group tab
 
-![](images/04-12.png "=85%, 85%")
+![Edit group tab in Maxthon](images/04-12.png "=85%, 85%")
 
 * If you wish to edit the group tab, right-click on the group tab name or color. You could:
     * Name your group
@@ -134,11 +134,11 @@ In the case if you accidentally close a tab or window, you could restore it via 
 
  
 
-![](images/04-13.png "=85%, 85%")
+![Restore closed tabs or windows in Maxthon](images/04-13.png "=85%, 85%")
 
 ## Closing Tabs
 
-![](images/04-14.png "=85%, 85%")
+![Closing Tabs in Maxthon](images/04-14.png "=85%, 85%")
 
 1. Move the cursor to a tab and click on close the button![](zh/images/04-21.png), or right-click and select [**Close tab** ]
 2. Closing multiple tabs:
@@ -153,7 +153,7 @@ In the case if you accidentally close a tab or window, you could restore it via 
 
 If a tab, a window, or an extension is not responding, you could use Maxthon task manager to close it.
 
-![](images/04-15.png "=85%, 85%")
+![Task Manager in Maxthon](images/04-15.png "=85%, 85%")
 
 * Use shortcut [ **Shift + Esc** ]
 * Right-click on the blank space on the address bar, select [ **Task Manager**];
