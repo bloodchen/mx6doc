@@ -1,13 +1,13 @@
 # Extensions <!-- {docsify-ignore} -->
 
-![logo](images/addon1.jpg)
+![Maxthon Extensions](images/addon1.jpg)
 
 ## **Maxthon now supports all Chrome extensions!**
 
 ## The extension pop-up window
 
 Maxthon supports chromium standard extensions. Click the extension button in the toolbar![](zh/images/12-1.png) to view the list of currently using extensions.
-![](images/addons.gif)
+![Maxthon extension pop-up window](images/addons.gif)
 
 - Pin/Unpin: Click the pin button![](zh/images/12-3.png) to show/hide the extension from toolbar;
 - Extension menu: right-click the extension icon on toolbar or the more button![](zh/images/03-2.png) beside the extension name in the pop-up window to open the extension menu;
@@ -21,7 +21,7 @@ The extension can be tuned off and be deleted in the extension manager page.
 
 ## Install extensions in the extension center of Maxthon
 
-![](images/12-00.png "=85%,85%")
+![Install extensions in the extension center of Maxthon](images/12-00.png "=85%,85%")
 
 Enter Maxthon extension center (https://webstore.maxthon.com/ ), Thousands of convenient extensions are recommended here. Various themes are also recommended here. Click to install and use them.
 

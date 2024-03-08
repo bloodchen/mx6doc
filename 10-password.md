@@ -4,13 +4,13 @@
 
 Passkeeper helps to save your username and passwords for different sites. This allows the browser to fill in the login details automatically when you visit the site again.
 
-![](images/10-00.png)
+![Remember Login details with Passkeeper](images/10-00.png)
 
 ## Managing Passkeeper
 
 Click on the ![](zh/images/03-2.png) button at the top right corner and select [ Passkeeper ] in the menu. Alternatively, you could click on [ Passkeeper ] at the top right corner of a new tab page. Once the entered password is verified, you will be redirected to the Passkeeper main page.
 
-![](images/10-01.png)
+![Managing Passkeeper](images/10-01.png)
 
 Passkeeper provides three different categories:
 

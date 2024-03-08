@@ -1,6 +1,6 @@
 # Quicknote <!-- {docsify-ignore} -->
 
-![logo](images/quick_notes.jpg)
+![Maxnote popup window](images/quick_notes.jpg)
 
 ## **Write down great ideas or anything worth to note while browsing the web**
 
@@ -11,7 +11,7 @@
 
 QuickNote is a lite version of Maxnote, allowing users to note down contents easily while browsing websites. Simply click on the ![](zh/images/09-01.png) button on the address bar or use shortcut [ Ctrl + G ] to access QuickNote.
 
-![](images/09-00.png)
+![Buttons in Maxnote popup window](images/09-00.png)
 
 1. New note: Click on the plus button![](zh/images/09-3.png) at the bottom left corner to start a new note.
 2. Listing of notes: QuickNote shows all notes saved in a specific folder of **Maxnotes** (Sub folder will not be displayed). You can change the folder through QuickNote menu.
@@ -19,7 +19,7 @@ QuickNote is a lite version of Maxnote, allowing users to note down contents eas
 
 ## Browsing of Quicknote
 
-![](images/09-01.png)
+![Functions in Maxnote popup window](images/09-01.png)
 
 1.  You could resize QuickNote by dragging the sides of the window. Click on the ![](zh/images/09-6.png) icon located near the sidebar to collapse or expand the window for editing.
 2.  QuickNote will automatically be closed after being inactive for a period of time. You can pin them by clicking on the ![](zh/images/09-4.png) button so that they stay visible over any other windows on your computer screen. Click on the same button to unpin QuickNote.
@@ -28,7 +28,7 @@ QuickNote is a lite version of Maxnote, allowing users to note down contents eas
 
 ## QuickNote menu
 
-![](images/09-02.png)
+![Menu in Maxnote popup window](images/09-02.png)
 
 Click on the ![](zh/images/09-8.png) button located at the bottom left corner to expand the menu and you could select the following:
 

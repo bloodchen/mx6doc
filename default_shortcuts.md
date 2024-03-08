@@ -87,6 +87,7 @@
 |Rotate clockwise|<span class="key">Ctrl</span> + <span class="key">]</span>(in PDF view)|
 |Print…|<span class="key">Ctrl</span> + <span class="key">P</span>|
 |Print with system dialog|<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">P</span>|
-|Lock Maxthon|No default value|
+|Lock Maxthon|<span class="key">Ctrl</span> + <span class="key">Shift</span> +<span class="key">L</span>|
+|Pin the current window|<span class="key">Ctrl</span> + <span class="key">Alt</span> +<span class="key">P</span>|
 |Help|<span class="key">F1</span>|
 

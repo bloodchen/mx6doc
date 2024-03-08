@@ -1,4 +1,4 @@
-## Welcom to Maxthon
+## Welcome to Maxthon
 
 The brand new Maxthon is available now! Faster, smoother, snappier, and classic as always. As the first blockchain browser in the world, Maxthon presents:
 
