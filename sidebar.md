@@ -15,6 +15,7 @@
 - [Passkeeper](10-password.md)
 - [Vbox](11-vbox.md)
 - [Extensions](12-extensions.md)
+- [AIchat](19-aichat.md)
 - [Others](13-other.md)
 - [Settings](14-setting.md)
 - [Gold activities](goldactivity.md)
