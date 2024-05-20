@@ -42,8 +42,7 @@ The video download service offers the following subscription options:
 
 - Monthly Subscription: $4.98 USD
 - Yearly Subscription: $14.98 USD
-- One-time Payment: $29.8 USD
-
+- 
 If you choose the monthly or yearly subscription, you need to pay with a credit card, ensuring sufficient credit for deduction. The third-party payment platform will automatically deduct the amount from your account.
 
 After subscribing, previous download tasks may need to be restarted. Find the previous video, and click the download button on the floating toolbar.
