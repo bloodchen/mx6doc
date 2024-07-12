@@ -76,6 +76,8 @@ When crafting prompts for AIchat, these strategies can enhance your experience:
 
 For example, to inquire about AI in healthcare, you might say: "Let's explore the potential benefits and challenges of integrating AI into healthcare systems." This approach is transparent, targeted, and invites an expansive dialogue.
 
+![Maxthon AIchat Discussion on Healthcare](images/aichat/ai_healthcare_discussion.jpg "Discussing the Impact of AI on Healthcare with Maxthon AIchat")
+
 ## User Support
 
 Need assistance or want to give feedback? Reach out to help@maxthon.com.

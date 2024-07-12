@@ -4,11 +4,11 @@ Welcome to the guide on getting the most out of your Maxthon Browser experience 
 
 ## Understanding Maxthon Membership
 
-Maxthon Browser Membership offers a suite of additional features and benefits designed to elevate your browsing experience. From ad-free browsing to exclusive access to new features, Maxthon Membership is tailored for users who demand more from their web browser.
+Maxthon Browser Membership offers a suite of additional features and benefits designed to elevate your browsing experience. 
 
 ### Key Benefits include:
 
-- **Ad-Free Browsing:** Enjoy a cleaner, faster browsing experience without any ads.
+- **Auto check in:** Automatically check-in in the New tab page.
 - **Exclusive Features:** Access new features before they're available to the public.
 - **Enhanced Support:** Get priority support from our team when you need assistance.
 
@@ -18,10 +18,9 @@ For a complete list of benefits, visit our [Maxthon Membership](https://www.maxt
 
 Activating your Maxthon Browser Membership is simple and straightforward. Follow these steps to unlock a world of enhanced browsing:
 
-1. **Visit the Membership Page:** Go to the [Maxthon Membership](https://www.maxthon.com/vip/) page on our website.
-2. **Choose Your Plan:** Select the membership plan that best fits your needs. We offer various plans to cater to different user requirements.
-3. **Sign Up or Log In:** If you're new to Maxthon, you'll need to [create an account](https://my.maxthon.com/). Existing users can simply [log in](https://my.maxthon.com/).
-4. **Payment:** Complete the payment process to activate your membership. We support multiple payment methods for your convenience.
+1. **Sign Up or Log In:** If you're new to Maxthon, you'll need to [create an account](https://my.maxthon.com/). Existing users can simply [log in](https://my.maxthon.com/).
+2. **Visit the Membership Page:** Go to the [Maxthon Membership](https://www.maxthon.com/vip/) page on our website.
+3. **Payment:** Complete the payment process to activate your membership. We support multiple payment methods for your convenience.
 
 ![Activate Maxthon Membership](images/17_00.jpg "=85%,85%") 
 
