@@ -31,6 +31,18 @@ Maxthon is still on the way to perfection. If you got any problem, please [conta
 **Thank you for your constant companionship**
 
 ## Exciting New features
+#### AI Chat
+Start AI Chat using the Maxthon sidebar or by clicking the app in the new tab page. For logged-in users, AI Chat offers a certain number of free uses daily in normal mode. Expert mode requires payment based on the number of chats. For more details, see [AI Chat Help](19-aichat.md).
+
+#### Video Download
+The new [Video Download](video-dowload-help.md) feature is a paid service that provides free usage to each user. Based on web recording, it allows saving and downloading videos from any video website. You can subscribe monthly or pay per use.
+
+#### Asset System and Maxthon Membership
+The Maxthon Asset System includes gold and diamonds. Gold can be earned through Maxthon activities such as check-ins and using enhanced translation, and it can be used to pay for Maxthon membership monthly fees. For more details about gold, see [Gold Activity](goldactivity.md). Diamonds are used for paid downloads, AI Chat, and AI search scenarios.
+
+#### New Note Sorting System
+The new Maxthon Note supports custom sorting as well as sorting by name, creation time, and modification time. You can also drag and drop files to create a custom order based on the orderly sorting by creation time, modification time, name, etc.
+
 
 #### Support Chrome extensions
 

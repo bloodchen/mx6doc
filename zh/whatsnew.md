@@ -7,30 +7,39 @@
 
 全新 Maxthon 在 Maxthon 5 的基础上进行了全面升级，重新出发的 Maxthon 功能更强大，体验更流畅，玩法更多样，设计更新潮……
 
-全新的 Maxthon 在<font color=#0062CC>[支持更多chromium插件](12-extend.md)</font>的基础上，保留了Maxthon 5 的大部分特色功能：<font color=#0062CC>[傲游笔记](08-mxnote)</font>、<font color=#0062CC>[资源嗅探器](#资源嗅探器)</font>、<font color=#0062CC>[密码大师](10-password.md)</font>、<font color=#0062CC>[分屏浏览](05-browse?id=网页缩放与全屏、分屏模式)</font>等。从Maxthon 5 升级至Maxthon，您的数据将被全量导入，实现流畅自然的切换。<font color=#0062CC>[登录Maxthon账户](02-privacy)</font>还能使您在不同设备之间实现数据互通。
+全新的 Maxthon 在<font color=#0062CC>[支持更多chromium插件](12-extend.md)</font>的基础上，保留了Maxthon 5 的大部分特色功能：<font color=#0062CC>[傲游笔记](08-mxnote)</font>、<font color=#0062CC>[资源嗅探器](#资源嗅探器)</font>、<font color=#0062CC>[密码大师](10-password.md)</font>、<font color=#0062CC>[分屏浏览](05-browse?id=网页缩放与全屏、分屏模式)</font>等。从Maxthon 5 升级至Maxthon，您的数据将被全量导入，实现流畅自然的切换。<font color=#0062CC>[登录Maxthon账户](https://my.maxthon.com/)</font>还能使您在不同设备之间实现数据互通。
 
 另外, Maxthon 还引领潮流，新增了区块链玩法。您可以在<font color=#0062CC>[区块链身份管理工具 Vbox](11-vbox)</font> 中管理您的加密货币钱包或者直接创建一个 BSV 公链上的 Vbox 身份。Vbox 还可绑定全球首款<font color=#0062CC>[区块链域名 NBdomain](11-vbox?id=-申请免费nb域名)</font>，使用手机号即可免费注册自己的域名，不再需要每年支付域名费用。还有更多区块链小应用，您可以和您的朋友一起体验新潮的链上生活。
 
-在Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。此外，菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
+在Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。如果您开通了[傲游会员](https://maxthon.com/zh/vip), 还可以打开[超级收藏](superfavor.md), 开启后仍然能够使用和傲游5基本类似的网址收藏，保持我的喜欢等功能，并更进一步，可以在地址栏访问笔记。此外，皮肤、菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
 
 
-最后，Maxthon 仍在不断更新和完善中，任何您使用上的不便都是我们不断努力的动力。挑剔的用户永远是Maxthon的宝藏。如果遇到使用上的问题，可以随时[反馈](https://www.maxthon.cn/mx/bug/post/)或[联系我们](https://www.maxthon.com/contact/)，我们将会及时回复并尽最大的可能满足您的需要。
+最后，Maxthon 仍在不断更新和完善中，任何您使用上的不便都是我们不断努力的动力。挑剔的用户永远是Maxthon的宝藏。如果遇到使用上的问题，可以随时[反馈](https://www.maxthon.com/zh/report)或[在论坛发帖](https://bbs.maxthon.cn)，我们将会及时回复并尽最大的可能满足您的需要。
 
 **感谢大家一如既往的支持！**
 
 
 
 ## Maxthon 新增功能
-
 Maxthon 新增了很多特色功能，包括
 
-### 海量 chromium 插件支持
+### AI聊天
+使用傲游侧边栏或在新标签页点击应用即可开启AI聊天。对于登录用户，AI聊天普通模式每天提供一定的免费使用次数。专业模式需要的按聊天条数付费。具体可查看[AI聊天帮助](19-aichat.md)。
 
-![插件中心](images/插件中心.gif "=85%,85%")
+### 视频下载
+全新的[视频下载](video-dowload-help.md)功能是付费服务，并给每个用户提供免费使用次数。以网页录制为基础，可以在任意视频网站实现视频保存和下载。您可以按月订阅或按量付费。
 
-全新的Maxthon 支持所有 chrome 插件，在开发者模式下，您还能够开发并调试您自己的插件。如果您登录傲游账户，傲游还可以同步您账号中的插件。您可以在 [**chrome 插件中心**](https://chrome.google.com/webstore/category/extensions)直接安装插件到Maxthon。中国大陆境内的用户可以在[**Maxthon插件中心**](https://webstore.maxthon.cn/)下载您所需的插件。
+### 资产系统和傲游会员
+傲游资产系统包括金币和钻石。金币可以通过傲游活动如签到、使用增强翻译等获得，并用于支付傲游会员月费。关于金币可以查看[金币活动](goldactivity.md)。钻石用于付费下载、AI聊天和AI搜索等场景。
 
-更多关于插件的介绍请查看[**使用拓展应用**](12-extend)
+### 全新的笔记排序系统
+新版的傲游笔记支持自定义排序和按照名称、创建时间、修改时间排序，并且能在使用创建时间、修改时间、名称等有序排序的基础上拖动文件实现自定义排序。
+
+### 海量 chromium 扩展程序支持
+
+全新的Maxthon 支持所有 chrome 扩展程序，在开发者模式下，您还能够开发并调试您自己的扩展程序。如果您登录傲游账户，傲游还可以同步您账号中的扩展程序。您可以在 [**chrome 扩展中心**](https://chrome.google.com/webstore/category/extensions)直接安装扩展程序到Maxthon。中国大陆境内的用户可以在[**第三方扩展程序商店**](https://go.mxfast.com/webstore)下载您所需的扩展程序。
+
+更多关于扩展的介绍请查看[**使用扩展应用**](12-extend)
 
 ### 更强大的隐私保护
 
@@ -75,10 +84,6 @@ Maxthon 提供了三种进入隐身模式的方式，分别为主菜单开启隐
 ![打开资源嗅探器](images/资源嗅探器.gif "=85%, 85%")
 
 
-### 密码大师
-
-密码大师(mx://password/) 功能基本与 Maxthon 5 一致，但 Maxthon 中通用身份信息功能暂时不可用。但您在Maxthon 5 中的数据并未丢失，仍然可登录[**U+账户 uu.me**](https://www.uu.me/) 在线查看。更多关于密码大师的功能请查看[**使用密码大师**](10-password)
-
 ### 百变邮箱
-
 百变邮箱在 Maxthon 中不再提供快捷入口，但可以在[**U+账户 uu.me**](https://www.uu.me/) 在线使用。您可以收藏 U+并继续使用百变邮箱的各种功能。
+
