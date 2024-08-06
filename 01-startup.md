@@ -64,10 +64,10 @@ If you're upgrading from Maxthon 5:
 1. Download the new version directly over your existing one.
 2. Log in for the first time to import your Maxthon 5 data automatically.
 
-
 ### Completing Installation
 
 Monitor the installation progress. Once complete, you're set to explore the internet with Maxthon Browser!
+
 
 ## Maxthon Browser Bookmark Import
 
@@ -115,5 +115,53 @@ For users upgrading from Maxthon 5, your data will be automatically synchronized
 Users upgrading from Maxthon 5 will have their bookmarks, passwords, Maxnote, and other data automatically imported, even if not logged in. If you face any problems with automatic data import, you can still import manually.
 
 - Due to the upgrade in technology, plugin data from Maxthon 5 cannot be synchronized to the new version of Maxthon.
+
+
+## Set Maxthon as the Default Browser
+
+Making Maxthon your default browser allows external links and files to open in Maxthon automatically. This can be set within Maxthon's settings and also through your operating system's settings.
+
+### How to Set Maxthon as the Default Browser
+
+To set Maxthon as the default browser, navigate to 'Settings' -> 'Default App settings' within Maxthon, or adjust your OS system settings. For instance, in Windows 10:
+
+* Open **Menu** > **More tools** > **Set as default**. This directs you to the system's default apps settings.
+
+![Set Maxthon as the Default Browser](images/startup/Set_Maxthon_as_Default_Browser.jpg "Set Maxthon as the Default Browser")
+
+* In the system settings, navigate to **Default apps** > **Web browser** and select **Maxthon**.
+
+![Set Maxthon as the Default Browser in WindowsOS](images/startup/Set_Maxthon_as_Default_Browser_WindowsOS.jpg "Navigate to Default apps to Choose Maxthon")
+
+* For easy access, consider pinning the Maxthon icon to your taskbar:
+    - Open Maxthon on your device.
+    - Right-click on the taskbar's Maxthon icon.
+    - Select **Pin to taskbar**.
+
+### Set File Types to Open in Maxthon
+
+Maxthon can be set to automatically open certain file types. This selection is made through the browser's settings, offering a more seamless browsing experience.
+
+## Update Maxthon
+
+Maxthon provides various options for updating to ensure your browser stays current with the latest features and security updates:
+
+- **Automatically keep my Maxthon browser up to date**: With this setting enabled, Maxthon will update itself automatically.
+- **Auto-check and notify for updates**: Maxthon will check for updates and notify you, allowing you to choose when to update.
+- **Never check for updates**: Select this option if you prefer to manually check for updates.
+
+### Opting Out of Automatic Updates
+
+To prevent Maxthon from automatically checking for updates, navigate to 'Settings' -> 'Advanced' -> 'Do Not Check for Updates'. With this option enabled, the browser will not seek new versions under any circumstances, giving you full control over the update process.
+
+
+## Uninstall Maxthon
+
+Should you decide to uninstall Maxthon, it can be done easily through your system's settings:
+
+* Locate Maxthon in the system menu, then right-click on it and select the **Uninstall** button.
+* Alternatively, the browser can be uninstalled via the system's control panel.
+
+Ensuring these steps are clearly outlined and accessible will help users to easily navigate their options within Maxthon, enhancing their overall experience with the browser.
 
 Should you need any assistance or encounter issues during the bookmark import process, please contact support at [help@maxthon.com](mailto:help@maxthon.com).
