@@ -40,8 +40,8 @@ You can choose to:
 
 The video download service offers the following subscription options:
 
-- Monthly Subscription: $4.98 USD
-- Yearly Subscription: $14.98 USD
+- Monthly Subscription: $4.9 USD
+- Yearly Subscription: $49.9 USD
 - 
 If you choose the monthly or yearly subscription, you need to pay with a credit card, ensuring sufficient credit for deduction. The third-party payment platform will automatically deduct the amount from your account.
 
@@ -51,7 +51,7 @@ In addition to subscribing, you can also download a single video without a subsc
 
 ### 6.1 Maxthon Diamond Payment 💎
 
-You can also choose to pay with Maxthon Diamonds, 29800 Diamonds equivalent to $29.8 USD.
+You can also choose to pay with Maxthon Diamonds.
 
 ## 7. Subscription Success Email 📧
 
